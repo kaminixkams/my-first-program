@@ -1,4 +1,2 @@
 ## my-first-program
-# addition of two nos
-ygu fy
-iuihiuuih 
+# addition of two numbers
